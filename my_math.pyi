@@ -1,0 +1,3 @@
+# my_math.pyi
+
+def add(a: int, b: int) -> int: ...
